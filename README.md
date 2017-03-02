@@ -20,4 +20,5 @@ Submission
 * writeup report and code
     * p4\_submit.ipynb
 * video output
-    * white.mp4
+    * white.mp4 (original video: project\_video.mp4)
+    * challenge\_video\_output.mp4 (original video: challenge\_video.mp4)
